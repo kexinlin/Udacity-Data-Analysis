@@ -4,7 +4,7 @@
   - 文件
     1. titanic-data.csv（原始数据）
     2. Project_Titanic.ipynb（Jupyter Notebook数据分析过程）
-    3. Project_Titanic.html（html格式数据分析过程）
+    3. Project_Titanic.html（html格式数据分析过程）
   - 原始数据格式：csv
   - 编程语言和库：Python，NumPy，Pandas，Matplotlib
   - 编程平台：Jupyter Notebook  
