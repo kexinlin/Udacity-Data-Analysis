@@ -18,8 +18,8 @@
 3. **课程项目III：用 Tableau 来做电影数据可视化**
   - 文件
     1. Project3_instruction.pdf（Udacity项目说明和指示）
-    2. Project3_movies.csv（原始数据）
-    3. Project3_data_cleaning.ipynb（数据清洗过程）
-    4. Project3_cleaned_movies.csv（清洗后数据）
-    5. Project3.pdf（项目文档，包括Tableau Public链接）
+    2. Project3_movies.csv（原始数据）
+    3. Project3_data_cleaning.ipynb（数据清洗过程）
+    4. Project3_cleaned_movies.csv（清洗后数据）
+    5. Project3.pdf（项目文档，包括Tableau Public链接）
   
