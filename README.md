@@ -5,7 +5,7 @@
     1. [Project1_instruction.pdf](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project1_instruction.pdf)（Udacity项目说明和指示）
     2. [Project1_stroopdata.csv](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project1_stroopdata.csv)（原始数据）
     3. [Project1.pdf](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project1.pdf)（分析文档）
-  - 原始数据格式：csv
+  - 原始数据格式：csv
   - 分析平台：Excel
   
 2. **课程项目II：根据泰坦尼克号乘客信息进行数据分析**
