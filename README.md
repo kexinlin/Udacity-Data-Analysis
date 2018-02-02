@@ -15,7 +15,7 @@
     3. [Project2_Titanic.html](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project2_Titanic.html)（html格式数据分析过程）
   - 原始数据格式：csv
   - 编程语言和库：Python，NumPy，Pandas，Matplotlib
-  - 编程平台：Jupyter Notebook  
+  - 分析平台：Jupyter Notebook  
 3. **课程项目III：用 Tableau 来做电影数据可视化**
   - 文件
     1. [Project3_instruction.pdf](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project3_instruction.pdf)（Udacity项目说明和指示）
