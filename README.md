@@ -3,9 +3,9 @@
 1. 课程项目I：检验心理学现象  
   - 文件
     1. Project1-instruction.pdf（Udacity项目说明和指示）
-    2. Project1_stroopdata.csv（原始数据）
-    3. Project1.pdf（分析文档）
-  - 分析平台：Excel
+    2. Project1_stroopdata.csv（原始数据）
+    3. Project1.pdf（分析文档）
+  - 分析平台：Excel
   
 2. 课程项目II：根据泰坦尼克号乘客信息进行数据分析  
   - 文件
