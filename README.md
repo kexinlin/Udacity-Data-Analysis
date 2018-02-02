@@ -23,7 +23,7 @@
     3. Project3_data_cleaning.ipynb（数据清洗过程）
     4. Project3_cleaned_movies.csv（清洗后数据）
     5. Project3.pdf（项目文档，包括Tableau Public链接）
-  - 原始数据格式：csv
-  - 数据清洗平台：Jupyter Notebook
-  - 编程语言和库：Python，Numpy，Pandas
-  - 数据可视化平台：Tableau
+  - 原始数据格式：csv
+  - 数据清洗平台：Jupyter Notebook
+  - 编程语言和库：Python，Numpy，Pandas
+  - 数据可视化平台：Tableau
