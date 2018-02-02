@@ -1,8 +1,8 @@
 # Udacity-Data-Analysis
 这个文件夹包括了**Udacity数据分析入门课程**的以下相关文件：
 1. 课程项目I：检验心理学现象  
-  - 文件  
-    1. Project1-instruction.pdf（Udacity项目说明和指示）
+  - 文件
+    1. Project1-instruction.pdf（Udacity项目说明和指示）
     2. Project1_stroopdata.csv（原始数据）
     3. Project1.pdf（分析文档）
   - 分析平台：Excel
