@@ -5,7 +5,8 @@
     1. Project1_instruction.pdf（Udacity项目说明和指示）
     2. Project1_stroopdata.csv（原始数据）
     3. Project1.pdf（分析文档）
-  - 分析平台：Excel
+  - 原始数据格式：csv
+  - 分析平台：Excel
   
 2. **课程项目II：根据泰坦尼克号乘客信息进行数据分析**
   - 文件
@@ -22,4 +23,7 @@
     3. Project3_data_cleaning.ipynb（数据清洗过程）
     4. Project3_cleaned_movies.csv（清洗后数据）
     5. Project3.pdf（项目文档，包括Tableau Public链接）
-  
+  - 原始数据格式：csv
+  - 数据清洗平台：Jupyter Notebook
+  - 编程语言和库：Python，Numpy，Pandas
+  - 数据可视化平台：Tableau
