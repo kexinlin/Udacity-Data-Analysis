@@ -1,6 +1,6 @@
 # Udacity-Data-Analysis
-这个文件夹包括了**Udacity数据分析入门课程**的以下相关文件：
-备注：每个项目最终提交的项目报告为最后一个文件。
+这个文件夹包括了**Udacity数据分析入门课程**的以下相关文件：  
+备注：**每个项目最终提交的项目报告为最后一个文件。**
 1. **课程项目I：检验心理学现象**
   - 文件
     1. [Project1_instruction.pdf](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project1_instruction.pdf)（Udacity官方项目说明和指示）
