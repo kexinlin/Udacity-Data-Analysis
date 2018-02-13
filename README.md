@@ -29,8 +29,8 @@
   - 编程语言和库：Python，Numpy，Pandas
   - 数据可视化平台：Tableau
 4. **课程项目IV：设计和分析A/B测试**
-  - 文件
-    1. [Project4_instructions.pdf](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project4_instructions.pdf)（Udacity官方项目说明和指示）
+  - 文件
+    1. [Project4_instructions.pdf](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project4_instructions.pdf)（Udacity官方项目说明和指示）
     2. [Project4_template.pdf](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project4_template.pdf)（Udacity官方项目格式说明）
     3. [Project4_baselineValues.xlsx](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project4_baselineValues.xlsx)（UdacityA/B测试实验基准值）
     4. [Project4_results.xlsx](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project4_results.xlsx)（UdacityA/B测试结果数据）
