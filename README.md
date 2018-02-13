@@ -36,5 +36,5 @@
     4. [Project4_results.xlsx](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project4_results.xlsx)（UdacityA/B测试结果数据）
     5. [Project4_calculation.xlsx](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project4_calculation.xlsx)（A/B测试结果分析与计算）
     6. [Project4_Report.pdf](https://github.com/kexinlin/Udacity-Data-Analysis/blob/master/Project4_Report.pdf)（A/B测试结果最终报告）
-  - 原始数据格式：xlsx
-  - 数据计算平台：Excel
+  - 原始数据格式：xlsx
+  - 数据计算平台：Excel
