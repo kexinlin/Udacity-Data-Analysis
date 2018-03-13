@@ -3,7 +3,7 @@
 
 备注：**每个项目最终提交的项目报告为最后一个文件。**
 
-2018/3/13 更新：由于Udacity的数据分析（入门）课程于2017年12月发生了更新，此Git仓库包含的是更新前版本的课程项目作业。包含更新后课程版本的课程项目Git仓库作业见[Udacity-Data-Analysis-2018-Term-1](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1)。
+2018/3/13 更新：由于Udacity的数据分析（入门）课程于2017年12月发生了更新，此Git仓库包含的是更新前版本的课程项目作业。包含更新后课程版本项目作业的Git仓库见[Udacity-Data-Analysis-2018-Term-1](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1)。
 
 1. **课程项目I：检验心理学现象**
   - 文件
